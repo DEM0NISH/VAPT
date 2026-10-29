@@ -1,4 +1,6 @@
-# Limited-Scope External Web Security Assessment
+# VAP Report of ERP
+
+**Assessment type:** Preliminary, limited-scope external web security assessment
 
 **Target:** https://nucleus.niituniversity.in/
 **Assessment date:** 29 October 2026
